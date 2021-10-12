@@ -1,21 +1,30 @@
 ## What's this client?
 
 This is an updated version of AQLite meant to keep it working post the new AQW changes.
+
 I'm not sure why you would use this as opposed to the official [Artix Game launcher](https://www.artix.com/downloads/artixlauncher/), but nevertheless, it works.
+
 The AQLite Settings Menu has been removed from view, since pretty much all the options are in the new game.swf anyway.
-*Note* : I haven't touched any of the assets in the .fla file. Credit goes to 133spider and relevant authorities.
 
 Battle On :)
+
+*Note* : I haven't touched any of the assets in the .fla file. Credit goes to 133spider and relevant authorities.
 
 ## Information
 
 AQLite is a client made for AQWorlds that provides all sorts of Quality of Life tools that have been longed for. With the approach of the new versions of AQWorlds (AQW2 and AQW:Mobile), 133spider released AQLite to help players wait for the forever-waited changes to the game. He is now working for Artix Entertainment as a Developer and mostly does work on the Client. AQLite is open-sourced to assure that there is no account-stealing, or any funny business contained in the client!
 
 ## Installation
-* Goto this link https://github.com/133spider/AQLite/releases/
-* Click the text that says "CLICK ME FOR LAUNCHER DOWNLOAD OPTIONS"
-* Choose and Download the .zip file according to your operating system
+**1. Downloading the release :**
+* Goto this link https://github.com/gulag1337/AQLite/releases
+* Click the text that says "Click me for the MEGA link"
+* Choose and Download the .zip file according to your Operating System
 * Extract the file and run the program (The latest version is Version 17!)
+
+**2. If you don't want to download the entire release :**
+* Simply download the **aqlite.swf**, open your old AQLite folder, then go to to this folder :
+`resources\app\public\flash`.
+* Paste your new aqlite.swf in there; thus replacing the old aqlite.swf.
 
 ## OBS Studio Black Screen
 
