@@ -1,30 +1,21 @@
-![](https://i.imgur.com/g8IDT3j.png)  |  ![](https://i.imgur.com/IqHNki8.png)
+## What's this client?
 
-![](https://i.imgur.com/xvm8dFZ.png)  |  ![](https://i.imgur.com/4ybTsfc.png)
+This is an updated version of AQLite meant to keep it working post the new AQW changes.
+I'm not sure why you would use this as opposed to the official [Artix Game launcher](https://www.artix.com/downloads/artixlauncher/), but nevertheless, it works.
+The AQLite Settings Menu has been removed from view, since pretty much all the options are in the new game.swf anyway.
+*Note* : I haven't touched any of the assets in the .fla file. Credit goes to 133spider and relevant authorities.
 
-![](https://i.imgur.com/KqkqVSz.png)  |  ![](https://i.imgur.com/GA1Z4jZ.png)
-
-![](https://i.imgur.com/9dsdFIf.png)  |  ![](https://i.imgur.com/MSdJQJ4.png)
-
-![](https://i.imgur.com/GwstQQS.png)  |  ![](https://i.imgur.com/8xwqXbU.png)
-
+Battle On :)
 
 ## Information
 
-AQLite is a client made for AQWorlds that provides all sorts of Quality of Life tools that have been longed for. With the approach of the new versions of AQWorlds (AQW2 and AQW:Mobile), I am releasing AQLite to help players wait for the forever-waited changes to the game. AQLite is open-sourced to assure that there is no account-stealing, or any funny business contained in the client!
-
-## Donate!
-
-I love to create programs for free for those that need it.    
-If you'd like to donate some money to help out a College kid like me, that would be much appreciated!
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/133spider)
+AQLite is a client made for AQWorlds that provides all sorts of Quality of Life tools that have been longed for. With the approach of the new versions of AQWorlds (AQW2 and AQW:Mobile), 133spider released AQLite to help players wait for the forever-waited changes to the game. He is now working for Artix Entertainment as a Developer and mostly does work on the Client. AQLite is open-sourced to assure that there is no account-stealing, or any funny business contained in the client!
 
 ## Installation
 * Goto this link https://github.com/133spider/AQLite/releases/
 * Click the text that says "CLICK ME FOR LAUNCHER DOWNLOAD OPTIONS"
 * Choose and Download the .zip file according to your operating system
-* Extract the file and run the program (The latest version is Version 16!)
+* Extract the file and run the program (The latest version is Version 17!)
 
 ## OBS Studio Black Screen
 
