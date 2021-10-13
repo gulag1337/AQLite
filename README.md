@@ -2,13 +2,13 @@
 
 This is an updated version of AQLite meant to keep it working post the new AQW changes.
 
-I'm not sure why you would use this as opposed to the official [Artix Game launcher](https://www.artix.com/downloads/artixlauncher/), but nevertheless, it works.
+I'm not sure why you would use this as opposed to the official [Artix Game Launcher](https://www.artix.com/downloads/artixlauncher/), but nevertheless, it works.
 
 The AQLite Settings Menu has been removed from view, since pretty much all the options are in the new game.swf anyway.
 
 Battle On :)
 
-*Note* : I haven't touched any of the assets in the .fla file. Credit goes to 133spider and relevant authorities.
+*Note* : I haven't touched any of the assets in the .fla file. Credits go to 133spider and relevant authorities.
 
 ## Information
 
